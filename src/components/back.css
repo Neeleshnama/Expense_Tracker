@@ -1,0 +1,17 @@
+.register{
+    background-image: url("../images/back.jpg")!important;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.login{
+    background-image: url("./expense.jpg")!important;
+    background-size: cover;
+    background-repeat: no-repeat;   
+}
+
+.back{
+    background-image: url("../images/back.jpg")!important;
+    background-size: cover;
+    background-repeat: no-repeat;   
+}
